@@ -7,3 +7,6 @@ KELOMPOK 1
 5. Riris Silvia Zahri (2241727029)
 6. Tsania Risqi El Istiqomah (2241727041)
 7. Umbu Michael Fernando A (2241727033)
+
+- Link Wokwi
+https://wokwi.com/projects/365464963036317697
